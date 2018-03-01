@@ -1,0 +1,11 @@
+{
+    "name": "qinshuai/ln-demo",
+    "description": "a test project",
+    "authors": [
+        {
+            "name": "qinshuai",
+            "email": "qinshuai0423@163.com"
+        }
+    ],
+    "require": {}
+}
